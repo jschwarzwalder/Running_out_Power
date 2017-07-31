@@ -1,0 +1,27 @@
+Cockpit
+
+Choices
+    Send Distress Signal    Radio   2
+    Oxygen Level Turn off Scrubbers 4
+    Scan for habital planet Scan    1
+        Get Location
+    Send Robots to make repairs     3
+    Launch Lander Pod   Fixed energy usage  
+    Engines                         4
+        Travel toward habital planet or shipping line
+    Scan ship for surviors  Scan    1
+    
+Power Guage
+Oxygen Level
+Radar w/location and velociy
+Radio
+Robot Control
+Engines
+Damage Report
+
+
+Replicator - Possible repairs to items/sensors 
+    Radio
+    Computer? Engine? Lights?
+    Create repair robots
+    Repairs to Lander Pod
